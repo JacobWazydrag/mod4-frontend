@@ -9,6 +9,7 @@ body {
   background-size: 100%;
   background-position: center;
   background-color: white;
+  min-height: 100%;
 
 }
 
